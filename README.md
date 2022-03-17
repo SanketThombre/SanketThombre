@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Thombre</h1>
 <h3 align="center">A Passionate and Focused Aspiring full stack web developer.</h3>
 
-<img align="right" width="400" src="https://miro.medium.com/max/850/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="Coding">
+<img align="right" width="400" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket008&label=Profile%20views&color=0e75b6&style=flat" alt="sanket008" /> </p>
 
