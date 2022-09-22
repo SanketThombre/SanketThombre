@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sanket Thombre</h1>
-<h3 align="center">A passionate and focused aspiring full-stack web developer with a specialization in MERN stack and DSA. A capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills, and knowledge in an organization.</h3>
+<h3 align="center">A full-stack web developer aspirant with passion and dedication who focuses on MERN stack and DSA. ability to use their programming expertise to solve challenging issues. Looking for a challenging position in the software development industry that will provide the chance to advance my knowledge, skills, and abilities within a business.</h3>
 <br/>
 <img align="right" width="400" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" alt="Coding">
 <br/>
