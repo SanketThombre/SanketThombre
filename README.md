@@ -9,7 +9,6 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket008&label=Profile%20views&color=0e75b6&style=flat" alt="SanketThombre" /> </p>
 
-- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sanket.p.thombare@gmail.com**
 
