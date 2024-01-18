@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Thombre</h1>
 <h3 align="center">A full-stack web developer aspirant with passion and dedication who focuses on MERN stack and DSA. ability to use their programming expertise to solve challenging issues. Looking for a challenging position in the software development industry that will provide the chance to advance my knowledge, skills, and abilities within a business.</h3>
 <br/>
-<img align="right" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="Coding">
+<img align="right" width="400" src="https://camo.githubusercontent.com/e83b3dee4b8b976c1c28fb24527a3dfffabc27c944dedd529517256849ea78e9/68747470733a2f2f7777772e6665676e6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f7765622d646576656c6f706d656e742d636f6d70616e792d696e2d6b6f6368692e676966" alt="Coding">
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket008&label=Profile%20views&color=0e75b6&style=flat" alt="SanketThombre" /> </p>
 
