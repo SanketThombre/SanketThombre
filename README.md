@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sanket.p.thombare@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1D5tIn-IHn5vspnQiEtOPMkuQ3Zl32MZB/view?usp=sharing">Click Here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1pvLfqGHsdyXxlc_dXcQ4FiGWGLCxdB08/view?usp=sharing">Click Here</a>
 
 <br/><br/>
 <h3 align="left">Connect with me:</h3>
