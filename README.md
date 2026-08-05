@@ -80,7 +80,7 @@ Currently focused on:
 
 # 🚀 Featured Project
 
-## 📄 PDF RAG Chatbot
+## 📄 RAG Chatbot
 
 A full-stack AI application that allows users to upload PDF documents and interact with them using natural language.
 
