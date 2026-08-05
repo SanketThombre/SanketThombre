@@ -106,11 +106,9 @@ React • TypeScript • Node.js • Express • MongoDB • Hugging Face API
 
 <p align="center">
 
-<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=SanketThombre&show_icons=true&theme=tokyonight&hide_border=true"/>
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=SanketThombre&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketThombre&layout=compact&theme=tokyonight&hide_border=true"/> -->
-
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanketThombre&show_icons=true&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketThombre&layout=compact&theme=tokyonight&hide_border=true"/> 
 </p>
 
 ---
