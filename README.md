@@ -1,33 +1,139 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://rishavchanda.io)
-
-
-
 <h1 align="center">Hi 👋, I'm Sanket Thombre</h1>
-<h3 align="center">A full-stack web developer who focuses on MERN stack and DSA. ability to use their programming expertise to solve challenging issues. Looking for a challenging position in the software development industry that will provide the chance to advance my knowledge, skills, and abilities within a business.</h3>
-<br/>
-<img align="right" width="400" src="https://camo.githubusercontent.com/e83b3dee4b8b976c1c28fb24527a3dfffabc27c944dedd529517256849ea78e9/68747470733a2f2f7777772e6665676e6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f7765622d646576656c6f706d656e742d636f6d70616e792d696e2d6b6f6368692e676966" alt="Coding">
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket008&label=Profile%20views&color=0e75b6&style=flat" alt="SanketThombre" /> </p>
+<h3 align="center">Frontend Software Engineer | React.js | Next.js | TypeScript</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanket-thombre">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/SanketThombre">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:sanket.p.thombare@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-- 📫 How to reach me **sanket.p.thombare@gmail.com**
+---
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1pvLfqGHsdyXxlc_dXcQ4FiGWGLCxdB08/view?usp=sharing">Click Here</a>
+## 🚀 About Me
 
-<br/><br/>
-<h3 align="left">Connect with me:</h3>
-<br/>
-<p align="left">
-    <a href="https://www.linkedin.com/in/sanket-thombre-13632b114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket thombre" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/sanket.thombre.528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanket thombre" height="30" width="40" /></a>
-    <a href="https://instagram.com/sanket_thombre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket_thombre" height="30" width="40" /></a>
-    </p>
-<br/><br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img margin="5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img margin="5px" src="https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2020/06/express.jpg?fit=1704%2C486&ssl=" alt="express" width="80" height="35"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img margin="5px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="50"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img margin="5px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="80" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img margin="5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img margin="5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img margin="5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img margin="5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img margin="5px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="50"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img margin="5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="50"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img margin="5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="80" height="50"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img margin="5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="50"/> </a> </p>
-<br/><br/>
-<p><img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanketThombre&show_icons=true&locale=en&layout=compact" alt="SanketThombre" /></p>
+Frontend Software Engineer with **3.8+ years of experience** building scalable enterprise web applications using **React.js**, **Next.js**, and **TypeScript**.
 
-<p>&nbsp;<img align="center" width="1500px" height="180px" src="https://github-readme-stats.vercel.app/api?username=SanketThombre&show_icons=true&locale=en" alt="SanketThombre"/></p>
-<br/>
-<p><img align="center" width="1500px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=SanketThombre&" alt="SanketThombre" /></p>
+I enjoy designing reusable frontend architectures, building high-performance user interfaces, solving complex UI problems, and delivering production-ready software.
+
+Currently focused on:
+
+- ⚛️ React.js & Next.js
+- 💙 TypeScript
+- 📊 AG Grid Enterprise
+- ⚡ Performance Optimization
+- 🏗️ Frontend Architecture
+- 🔄 CI/CD & Azure DevOps
+- 🤖 AI-powered Applications (RAG)
+
+---
+
+## 💼 Professional Highlights
+
+- 🚀 Optimized a **Product Lifecycle Management (PLM)** platform for **Royal Enfield** and **Ashok Leyland**, reducing load time from **20 minutes to under 60 seconds** for **20,000+ records**.
+- 🏗️ Designed **12+ shared libraries** and **50+ reusable UI components** using **Nx Monorepo**.
+- 📊 Developed configurable **AG Grid** framework supporting enterprise-scale datasets.
+- 📝 Built a metadata-driven Form Builder used across **15+ internal applications**.
+- ⚡ Improved frontend performance through memoization and scalable component architecture.
+- 🔄 Worked with **Azure DevOps** CI/CD pipelines across Development, QA, and Production environments.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Also experienced with**
+
+- AG Grid Enterprise
+- Redux Toolkit
+- TanStack Query
+- Material UI
+- Nx Monorepo
+- Azure DevOps
+- Netlify
+- Render
+- REST APIs
+
+---
+
+# 🚀 Featured Project
+
+## 📄 PDF RAG Chatbot
+
+A full-stack AI application that allows users to upload PDF documents and interact with them using natural language.
+
+### Features
+
+- 📄 PDF Upload
+- ✂️ Intelligent Text Chunking
+- 🧠 Vector Embeddings
+- 🔍 Semantic Search
+- 🤖 Retrieval-Augmented Generation (RAG)
+- 💬 Chat Interface
+- 📚 Markdown Rendering
+- ⚡ Fast Document Retrieval
+- 🔄 GitHub → Netlify → Render Deployment
+
+**Tech Stack**
+
+React • TypeScript • Node.js • Express • MongoDB • Hugging Face API
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanketThombre&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanketThombre&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SanketThombre&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+📧 **Email:** sanket.p.thombare@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sanket-thombre
+
+💻 **GitHub:** https://github.com/SanketThombre
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</p>
